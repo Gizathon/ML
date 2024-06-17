@@ -1,6 +1,5 @@
-Based on the contents of the provided notebooks, here is a README file for your GitHub repository:
 
----
+
 
 # Rugpull Prediction Using Machine Learning with Giza SDK
 
@@ -8,8 +7,6 @@ This repository contains code for predicting rugpulls using a machine learning m
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
 - [Notebooks](#notebooks)
   - [EDA.ipynb](#edainb)
   - [ML.ipynb](#mlinb)
@@ -17,36 +14,6 @@ This repository contains code for predicting rugpulls using a machine learning m
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/rugpull-prediction.git
-    cd rugpull-prediction
-    ```
-
-2. Create and activate a virtual environment (optional but recommended):
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. Ensure you have the necessary data files (`filtered.csv` and `model_data.csv`) in the root directory of the project.
-
-2. Open and run the Jupyter Notebooks:
-
-    ```sh
-    jupyter notebook
-    ```
-
-3. In the Jupyter interface, open and execute the cells in `EDA.ipynb` followed by `ML.ipynb`.
 
 ## Notebooks
 
